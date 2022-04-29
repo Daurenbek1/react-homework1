@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+// fontFamily
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+//Variables
+
+$robotoSlab: 'Roboto Slab', serif;
+$roboto: 'Roboto', sans-serif;
+$orange: #f3701d;
+$black: #1b1b1b;
+
+
+
+
+
+
+
